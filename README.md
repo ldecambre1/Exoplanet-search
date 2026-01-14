@@ -38,13 +38,13 @@ This dataset is challenging due to noisy measurements, missing values, and overl
 
 ## **Dependencies**
 
-* Python
-* pandas
-* numpy
-* scikit-learn
-* tensorflow
-* matplotlib
-* seaborn
+* Python: 3.12.1
+* pandas: 2.3.3
+* NumPy: 2.4.0
+* scikit-learn: 1.8.0
+* matplotlib: 3.10.8
+* seaborn: 0.13.2
+* PyTorch: 2.9.1+cu128
 
 ## **Usage**
 
